@@ -1,0 +1,9 @@
+welcome to github
+this is text file
+  
+  
+  apple
+  mango
+  grapes
+  banana
+  
