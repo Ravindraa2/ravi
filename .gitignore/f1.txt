@@ -7,3 +7,8 @@ this is text file
   grapes
   banana
   
+paineapple
+blackburry
+blueburr
+
+
